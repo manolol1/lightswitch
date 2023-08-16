@@ -1,0 +1,3 @@
+# Alexa Lightswitch
+
+This is a simple lightswitch, I buildt with an ESP32. More information is coming soon...
